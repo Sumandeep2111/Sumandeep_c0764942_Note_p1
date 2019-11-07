@@ -13,6 +13,7 @@
 		9BDD84F8237490F3003B309A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BDD84F6237490F3003B309A /* Main.storyboard */; };
 		9BDD84FA237490FC003B309A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BDD84F9237490FC003B309A /* Assets.xcassets */; };
 		9BDD84FD237490FC003B309A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BDD84FB237490FC003B309A /* LaunchScreen.storyboard */; };
+		9BDD850623749EE2003B309A /* cellTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDD850523749EE2003B309A /* cellTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9BDD84F9237490FC003B309A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BDD84FC237490FC003B309A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BDD84FE237490FC003B309A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BDD850523749EE2003B309A /* cellTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cellTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9BDD84F9237490FC003B309A /* Assets.xcassets */,
 				9BDD84FB237490FC003B309A /* LaunchScreen.storyboard */,
 				9BDD84FE237490FC003B309A /* Info.plist */,
+				9BDD850523749EE2003B309A /* cellTableViewController.swift */,
 			);
 			path = Sumandeep_c0764942_Note_p1;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9BDD84F5237490F3003B309A /* ViewController.swift in Sources */,
 				9BDD84F1237490F3003B309A /* AppDelegate.swift in Sources */,
 				9BDD84F3237490F3003B309A /* SceneDelegate.swift in Sources */,
+				9BDD850623749EE2003B309A /* cellTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
